@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xhdpi/delete.png",
+        "source": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/src/main/res/drawable-xhdpi/delete.png"
+    },
+    {
+        "merged": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xhdpi/add.png",
+        "source": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/src/main/res/drawable-xhdpi/add.png"
+    },
+    {
+        "merged": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xhdpi/recent.png",
+        "source": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/src/main/res/drawable-xhdpi/recent.png"
+    },
+    {
+        "merged": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xhdpi/unchecked.png",
+        "source": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/src/main/res/drawable-xhdpi/unchecked.png"
+    },
+    {
+        "merged": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xhdpi/pear.png",
+        "source": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/src/main/res/drawable-xhdpi/pear.png"
+    },
+    {
+        "merged": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xhdpi/logo_login.png",
+        "source": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/src/main/res/drawable-xhdpi/logo_login.png"
+    },
+    {
+        "merged": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xhdpi/nonselected.png",
+        "source": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/src/main/res/drawable-xhdpi/nonselected.png"
+    },
+    {
+        "merged": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xhdpi/apple.png",
+        "source": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/src/main/res/drawable-xhdpi/apple.png"
+    },
+    {
+        "merged": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xhdpi/selected.png",
+        "source": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/src/main/res/drawable-xhdpi/selected.png"
+    },
+    {
+        "merged": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xhdpi/banana.png",
+        "source": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/src/main/res/drawable-xhdpi/banana.png"
+    },
+    {
+        "merged": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xhdpi/unchecked_white.png",
+        "source": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/src/main/res/drawable-xhdpi/unchecked_white.png"
+    },
+    {
+        "merged": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xhdpi/checked_white.png",
+        "source": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/src/main/res/drawable-xhdpi/checked_white.png"
+    },
+    {
+        "merged": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xhdpi/checked.png",
+        "source": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/src/main/res/drawable-xhdpi/checked.png"
+    },
+    {
+        "merged": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xhdpi/logo_signup.png",
+        "source": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/src/main/res/drawable-xhdpi/logo_signup.png"
+    },
+    {
+        "merged": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xhdpi/menu.png",
+        "source": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/src/main/res/drawable-xhdpi/menu.png"
+    },
+    {
+        "merged": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xhdpi/icon.png",
+        "source": "/Users/billymahmood/Sites/mm/groceries-angular/platforms/android/src/main/res/drawable-xhdpi/icon.png"
+    }
+]
